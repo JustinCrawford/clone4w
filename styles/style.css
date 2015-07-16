@@ -1,0 +1,151 @@
+ 
+
+body{
+            background-color:Black;
+            background-repeat:no-repeat;
+            background-size:cover;
+            color:red;
+            font-family: Cursive;
+            line-height: 2;
+            background-image: url(http://i1.wp.com/static.web-backgrounds.net/uploads/2012/08/City_Landscape_Background.jpg);
+            text-align:center;
+            font-size:30px;
+            
+                   
+                
+            
+        }
+        
+        h2 {
+            color: Black;
+            font-style:italic;
+            text-align:center;
+        }
+        
+        h1 {
+            color: Black;
+            font-style: italic;
+            font-weight:bold;
+            font-size:80px;
+            
+            
+        }
+        h3 {
+            color: Black;
+            font-style:italic;
+            font-weight:bolder;
+            text-align:center;
+        
+        }
+        p{
+            font-size:15px;
+        }
+        
+        a:link {
+            color:cornflowerblue;
+            font-weight:bolder;
+        }
+        
+        a:visited{
+            color:#48D1CC;
+        }
+        
+        a:hover{
+            color:darkblue;
+        }
+        
+        a:active{
+            color:red;
+        }
+         .nav {
+           list-style-type: none;
+       }
+       
+       .nav li {
+           margin: 5px;
+           display: inline-block;
+       }
+       
+      .nav a {
+           padding: 5px;
+           background-color: lavenderblush;
+           border-width:10px;
+           border:solid;
+           border-style:outset
+           ;
+       }
+       
+           .nav a:hover {
+           background-color: red;
+           border:dashed;
+           
+       } 
+              .nav li {
+  
+        display: inline-block;
+  
+        list-style-type: none;
+  
+        height: 50px;
+  
+        padding: 0;
+        
+        margin:0;
+        
+}
+
+ul.nav{
+  
+      margin:50px 40px 40px 50px;
+  
+      padding:0;
+  
+      width:100%;
+      
+      font-size:200%
+        
+}
+
+.nav li a{
+  
+    background-color:crimson;
+  
+    color:white;
+    
+    text-decoration: none;
+  
+    padding: 10px 30px;
+  
+    float:right;
+  
+    width:auto;
+  
+    text-transform:case;
+  
+}
+
+.nav li:first-child a{
+  
+  border-left:solid 1px white;
+}
+        img{
+            width:500px;
+        }
+        
+    .two {
+    background-color:lavenderblush;
+    width: 1500px;
+    padding: 25px;
+    border: 25px solid red;
+    margin: 25px auto;
+    top:170px;
+    right:860px;
+    position:absolute left;
+    border:dashed;
+    text-align:center;
+    
+    
+    
+    
+        
+        
